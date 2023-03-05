@@ -1,4 +1,4 @@
-# UI---Aplicativo-de-alugel-de-im-veis
+# UI-Aplicativo-de-alugel-de-imovéis
 User Interface (UI) de um aplicativo de aluguel de imóveis
 ## Links figma:
 - figjam/briefing: https://www.figma.com/file/ZtMh5otLriEHhIz0ohYJRR/Figjam---Briefing?t=ZVMgYnYao0dQi6MI-0
