@@ -17,5 +17,5 @@ Aqui estão algumas capturas de tela da interface do usuário:
 
 ### Briefing
 
-![Briefing](./https://github.com/Sergio-Gabriell/UI-aplicativo-de-aluguel-de-imoveis/blob/master/Figjam%20-%20Briefing.png?raw=true)
+![Briefing](https://github.com/Sergio-Gabriell/UI-aplicativo-de-aluguel-de-imoveis/blob/master/Figjam%20-%20Briefing.png?raw=true)
 
