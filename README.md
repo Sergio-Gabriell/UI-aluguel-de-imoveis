@@ -6,3 +6,15 @@ Este projeto consistiu na criação da interface gráfica para um aplicativo de 
 ## Links figma:
 - figjam/briefing: https://www.figma.com/file/ZtMh5otLriEHhIz0ohYJRR/Figjam---Briefing?t=ZVMgYnYao0dQi6MI-0
 - Baixa&Média fidelidade: https://www.figma.com/file/AuQCX5drNMwIkqOalNHbM8/Baixa%26Media_Fidelidade?node-id=0%3A1&t=7dSGJEu1QHtnRZZd-0
+
+## Capturas de tela
+
+Aqui estão algumas capturas de tela da interface do usuário:
+
+### Baixa e Média Fidelidade
+
+![Baixa e Média Fidelidade](Baixa&Media_Fidelidade.png)
+
+### Briefing
+
+![Briefing](Figjam - Briefing.png)
