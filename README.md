@@ -17,4 +17,4 @@ Aqui estão algumas capturas de tela da interface do usuário:
 
 ### Briefing
 
-![Briefing](Figjam - Briefing.png)
+![Briefing](Figjam\ -\ Briefing.png)
